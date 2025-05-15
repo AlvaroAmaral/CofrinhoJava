@@ -42,7 +42,4 @@ Selecione a opção desejada digitando o número correspondente e siga as instru
 As taxas de câmbio utilizadas neste projeto são valores de exemplo e podem não refletir as taxas reais de mercado. As taxas podem ser atualizadas editando as constantes `TAXA_CAMBIO` nas respectivas classes de moeda.
 
 ## Autor
-[Seu Nome]
-
-## Licença
-Este projeto é disponibilizado como código aberto sob a licença [especificar licença].
+Álvaro Amaral
